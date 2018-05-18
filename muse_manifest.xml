@@ -1,0 +1,45 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1526609503916">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3905835360" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="shock-project-favicon.ico" crc="229542471" ref="index"/>
+    <file name="mapworld_white.png" crc="229867807" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shockwallet_hero_product1.png" crc="3913090724" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shockwalletlogo.png" crc="4126371202" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u139-4.png" crc="100326680" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u144.png" crc="416300929" ref="index"/>
+    <file name="u144-r.png" crc="416300929" ref="index"/>
+    <file name="shockwallet_hero_product2.png" crc="218332937" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u173-4.png" crc="235650671" ref="index"/>
+    <file name="u176-4.png" crc="3975356646" ref="index"/>
+    <file name="shockwallet_hero_product3.png" crc="3967013137" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u190-4.png" crc="4124553244" ref="index"/>
+    <file name="u193-4.png" crc="337421994" ref="index"/>
+    <file name="qr.jpg" crc="3893894338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="214088770" seo="true" mt="1526609493933" redirect="true"/>
+</manifest>

@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/capdog
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://shocknet.github.io
+  * I am capdog (https://keybase.io/capdog) on keybase.
+  * I have a public key ASB3E8vvylnXZbPio-r2yiEEStHrW205ERH35Jhxf4knWgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207713cbefca59d765b3e2a3eaf6ca21044ad1eb5b6d391111f7e498717f89275a0a",
+      "host": "keybase.io",
+      "kid": "01207713cbefca59d765b3e2a3eaf6ca21044ad1eb5b6d391111f7e498717f89275a0a",
+      "uid": "41fbaf0d2223ade1a07c318ba9d10d19",
+      "username": "capdog"
+    },
+    "merkle_root": {
+      "ctime": 1520540580,
+      "hash": "6a6162e20dee9020744e793c2b30663ab2896deedc9869a06a55529e07cb162d1d8c31214e81310483bd1dbe80a006536f80ee9ea8336da5337a3fcfaf63c7a7",
+      "hash_meta": "843d2c5c20188c6edf68879e319fb4a1fb2b42e4962ebb7532d9b0b478d99de9",
+      "seqno": 2205264
+    },
+    "service": {
+      "hostname": "shocknet.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520540603,
+  "expire_in": 504576000,
+  "prev": "9e8d7f05241521284892870c8eb915ff9ecdd04928dd2f06c4494ad08653a782",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdxPL78pZ12Wz4qPq9sohBErR61ttORER9+SYcX+JJ1oKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzcxM2NiZWZjYTU5ZDc2NWIzZTJhM2VhZjZjYTIxMDQ0YWQxZWI1YjZkMzkxMTExZjdlNDk4NzE3Zjg5Mjc1YTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzcxM2NiZWZjYTU5ZDc2NWIzZTJhM2VhZjZjYTIxMDQ0YWQxZWI1YjZkMzkxMTExZjdlNDk4NzE3Zjg5Mjc1YTBhIiwidWlkIjoiNDFmYmFmMGQyMjIzYWRlMWEwN2MzMThiYTlkMTBkMTkiLCJ1c2VybmFtZSI6ImNhcGRvZyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUyMDU0MDU4MCwiaGFzaCI6IjZhNjE2MmUyMGRlZTkwMjA3NDRlNzkzYzJiMzA2NjNhYjI4OTZkZWVkYzk4NjlhMDZhNTU1MjllMDdjYjE2MmQxZDhjMzEyMTRlODEzMTA0ODNiZDFkYmU4MGEwMDY1MzZmODBlZTllYTgzMzZkYTUzMzdhM2ZjZmFmNjNjN2E3IiwiaGFzaF9tZXRhIjoiODQzZDJjNWMyMDE4OGM2ZWRmNjg4NzllMzE5ZmI0YTFmYjJiNDJlNDk2MmViYjc1MzJkOWIwYjQ3OGQ5OWRlOSIsInNlcW5vIjoyMjA1MjY0fSwic2VydmljZSI6eyJob3N0bmFtZSI6InNob2NrbmV0LmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIwNTQwNjAzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjllOGQ3ZjA1MjQxNTIxMjg0ODkyODcwYzhlYjkxNWZmOWVjZGQwNDkyOGRkMmYwNmM0NDk0YWQwODY1M2E3ODIiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECIAsfOXQRmpZUZiAckfw6ur61ltE41AST5C8Q5iykv3v3Ce7dTkZnYw4AwPz2+vEHr3VklfdqbRC2ATCNVEt4MqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgylSIG7zs46eDr57V7Kw5Zoo0ifigrsKcb5THhg7+Ku+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/capdog
+
+==================================================================
